@@ -3,7 +3,7 @@ I'm  Software Engineer From Bangladesh.
 
 ## I'm a  Developer and Software Engineer !!
 
-- 🌱 I’m currently focus on C#, ASP.NET Web Application, Desktop Application
+- 🌱 I’m currently focus on Laravel Web Application, ASP.NET Web Application, Desktop Application
 - 🥅 2021 Goals: Contribute more of C#, ASP.NET and NodeJs to Open Source projects
 
 
