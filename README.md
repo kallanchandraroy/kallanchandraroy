@@ -1,12 +1,12 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Kallan Roy Shuvo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 I'm  Software Engineer From Bangladesh.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kallanchandraroy&label=Profile%20views&color=0e75b6&style=flat" alt="kallanchandraroy" /> </p>
+
 ## I'm a  Developer and Software Engineer !!
 
 - 🌱 I’m currently focus on Laravel Web Application, ASP.NET Web Application, Desktop Application
 - 🥅 2022 Goals: Contribute more of PHP, C#, ASP.NET and NodeJs to Open Source projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kallanchandraroy" alt="kallanchandraroy" /></a> </p>
+
 ### Connect with me:
 
 
