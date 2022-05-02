@@ -6,7 +6,7 @@ I'm  Software Engineer From Bangladesh.
 - 🌱 I’m currently focus on Laravel Web Application, ASP.NET Web Application, Desktop Application
 - 🥅 2022 Goals: Contribute more of PHP, C#, ASP.NET and NodeJs to Open Source projects
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kallanchandraroy" alt="kallanchandraroy" /></a> </p>
 ### Connect with me:
 
 
