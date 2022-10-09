@@ -12,7 +12,6 @@ I'm  Software Engineer From Bangladesh.
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kallan-chandra-roy/)
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/iamkallanroy/)
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=kallanchandraroy" alt="Vistor Badge"></a>
 
 <br />
 
