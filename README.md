@@ -1,7 +1,7 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Kallan Roy Shuvo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 I'm  Software Engineer From Bangladesh.
 
-## I'm a  Developer and Software Engineer !!
+## I'm a Software Engineer !!
 
 - 🌱 I’m currently focus on Laravel Web Application, ASP.NET Web Application,Vue Js, React Js App, API Application
 - 🥅 2022 Goals: Contribute more of PHP,Vue Js, React Js, C#, ASP.NET and NodeJs to Open Source projects
