@@ -3,8 +3,8 @@ I'm  Software Engineer From Bangladesh.
 
 ## I'm a Software Engineer !!
 
-- 🌱 I’m currently focus on Laravel Web Application, ASP.NET Web Application,Blazor, React Js App, API Application
-- 🥅 2022 Goals: Contribute more of PHP,Vue Js, React Js, C#, ASP.NET and NodeJs to Open Source projects
+- 🌱 I’m currently focus on Laravel Web Application, ASP.NET Core Web Application, C#, Blazor, React Js App, ASP. NET WEB API Application
+- 🥅 2023 Goals: Contribute more of Next Js, SANITY, NodeJs to Open Source projects
 
 
 ### Connect with me:
