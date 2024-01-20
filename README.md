@@ -1,10 +1,10 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Kallan Roy Shuvo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-I'm  Software Engineer From Bangladesh.
+I'm  a Software Engineer From Bangladesh.
 
 ## I'm a Software Engineer !!
 
 - 🌱 I’m currently focusing on Laravel Web Applications, VueJS, TailwindCSS, Rest API, InertiaJS, Next JS, React JS, PHP, Javascript, and MySQL.
-- 🥅 2023 Goals: Contribute more of NextJs, NuxtJs, Laravel API, InertiaJS, and NodeJs to Open Source projects.
+- 🥅 2024 Goals: Contribute more of NextJs, NuxtJs, Laravel API, InertiaJS, and NodeJs to Open Source projects.
 
 
 ### Connect with me:
