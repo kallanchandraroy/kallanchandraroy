@@ -3,7 +3,7 @@ I'm  a Software Engineer From Bangladesh.
 
 ## I'm a Software Engineer !!
 
-- 🌱 I’m currently focusing on Laravel Web Applications, VueJS, TailwindCSS, Rest API, InertiaJS, Next JS, React JS, PHP, Javascript, and MySQL.
+- 🌱 I’m currently focusing on Laravel Web Applications, InertiaJS,Node Js, Next JS, React JS, PHP, and MySQL, MongoDB, PostgreSQL.
 - 🥅 2025 Goals: Contribute more of NextJs, NuxtJs, Laravel API, InertiaJS, and NodeJs to Open Source projects.
 
 
