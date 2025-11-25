@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kallan Chandra Roy (Shuvo) 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="300px" width="400px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <b>Bangladesh 🇧🇩</b>
 </p>
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="620" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
