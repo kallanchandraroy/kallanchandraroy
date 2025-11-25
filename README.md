@@ -21,8 +21,6 @@ I specialize in **Laravel, Node.js, React.js, Next.js, and Inertia.js**, focusin
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkallanroy/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallanchandraroy)
 
-<br /><br />
-
 ---
 
 ## ⚙️ Languages & Tools  
