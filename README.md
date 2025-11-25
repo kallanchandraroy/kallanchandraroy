@@ -1,25 +1,41 @@
-# Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  
-I'm **Kallan Chandra Roy (Shuvo)** — a **Senior Software Engineer** from **Bangladesh**.  
-<img align="right" alt="Coding" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h1 align="center">Hi there, I'm Kallan Chandra Roy (Shuvo) 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
+</p>
+
+<p align="center">
+  <b>Senior Software Engineer | Full Stack Developer | Bangladesh 🇧🇩</b>
+</p>
+
+<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate **Full Stack Software Engineer** with over **6+ years of professional experience** in web application development.  
-I specialize in **Laravel, Node.js, React.js, Next.js, and Inertia.js**, focusing on building high-performance, scalable, and modern web applications.
+I’m a passionate **Full Stack Software Engineer** with **6+ years of experience** in building high-performance, scalable, and modern web applications.
 
-- 🚀 Currently mastering: **Laravel API**, **Inertia.js**, **Next.js**, and **Nuxt.js**  
-- 🧠 Experienced with: **PHP, JavaScript (ES6+), MySQL, MongoDB, PostgreSQL**  
-- 🌱 Always exploring: **AI-powered apps**, **IoT integrations**, and **microservices**  
-- 🥅 **2025 Goals:** Contribute to open-source projects in **Next.js, Laravel API, and Node.js**
+- 🚀 Specializing in **Laravel, Node.js, React.js, Next.js, Inertia.js**
+- 🧠 Skilled in **PHP, JavaScript (ES6+), MySQL, PostgreSQL, MongoDB**
+- 🌱 Learning deep: **Laravel API**, **Inertia.js**, **Next.js**, **Nuxt.js**
+- 🤖 Exploring: **AI-driven apps**, **IoT integrations**, **microservices**
+- 🎯 **2025 Goal:** Contribute to open-source Laravel & Next.js ecosystems
 
 ---
 
-## 🤝 Connect With Me  
+## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallan-chandra-roy/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkallanroy/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallanchandraroy)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kallan-chandra-roy/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/iamkallanroy/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/kallanchandraroy">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -47,19 +63,28 @@ I specialize in **Laravel, Node.js, React.js, Next.js, and Inertia.js**, focusin
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://readme-stats.clckblog.space/api?username=kallanchandraroy&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=kallanchandraroy&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats-kappa-eight.vercel.app/api?username=kallanchandraroy&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-kappa-eight.vercel.app/api/top-langs/?username=kallanchandraroy&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 Achievements  
-- 🎯 Built and deployed **enterprise-grade Laravel + React.js applications**  
-- 🧩 Designed and optimized **RESTful APIs** with **Inertia.js & Laravel Sanctum**  
-- 🌐 Contributed to **IoT product development (Smart Vendy Project)** using **MQTT and Node.js**  
-- 🧠 Mentor for junior developers in **React, Laravel, and full-stack best practices**
+
+- 🚀 Built and deployed **enterprise-grade Laravel + React.js systems**
+- 🔗 Created optimized **RESTful APIs** with **Laravel Sanctum & Inertia.js**
+- 🌐 Contributed to **IoT product development (Smart Vendy IoT Project)** using **MQTT + Node.js**
+- 👨‍🏫 Helped train junior developers in **Laravel, React, and system architecture**
+- 🔧 Experienced in **scalable architecture**, **clean code**, and **problem-solving**
 
 ---
 
+## 💬 Quote  
 > _“Clean code, scalable architecture, and seamless user experience — that’s what I build.”_  
 > — **Kallan Chandra Roy**
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
