@@ -82,15 +82,6 @@ I build reliable and production-grade systems using **Laravel, Node.js, React, N
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-evirunurm.vercel.app/api?username=kallanchandraroy&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-evirunurm.vercel.app/api/top-langs/?username=kallanchandraroy&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔥 GitHub Activity  
 
 <p align="center">
