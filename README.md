@@ -1,6 +1,6 @@
 # Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">  
 I'm **Kallan Chandra Roy (Shuvo)** — a **Senior Software Engineer** from **Bangladesh**.  
-
+<img align="right" alt="Coding" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
@@ -12,7 +12,7 @@ I specialize in **Laravel, Node.js, React.js, Next.js, and Inertia.js**, focusin
 - 🧠 Experienced with: **PHP, JavaScript (ES6+), MySQL, MongoDB, PostgreSQL**  
 - 🌱 Always exploring: **AI-powered apps**, **IoT integrations**, and **microservices**  
 - 🥅 **2025 Goals:** Contribute to open-source projects in **Next.js, Laravel API, and Node.js**
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ---
 
 ## 🤝 Connect With Me  
@@ -47,8 +47,8 @@ I specialize in **Laravel, Node.js, React.js, Next.js, and Inertia.js**, focusin
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kallanchandraroy&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallanchandraroy&layout=compact&theme=radical" />
+  <img height="160em" src="https://readme-stats.clckblog.space/api?username=kallanchandraroy&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=kallanchandraroy&layout=compact&theme=radical" />
 </p>
 
 ---
