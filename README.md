@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Senior Software Engineer | Full Stack Developer | Bangladesh 🇧🇩</b>
+  <b>Senior Software Engineer • Full Stack Developer • System Architect</b><br>
+  <b>Bangladesh 🇧🇩</b>
 </p>
 
 <img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -13,13 +14,47 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate **Full Stack Software Engineer** with **6+ years of experience** in building high-performance, scalable, and modern web applications.
+I’m a **Senior Software Engineer** with over **6+ years of experience**, specializing in **scalable architecture**, **modern full-stack development**, and **high-performance backend engineering**.
 
-- 🚀 Specializing in **Laravel, Node.js, React.js, Next.js, Inertia.js**
-- 🧠 Skilled in **PHP, JavaScript (ES6+), MySQL, PostgreSQL, MongoDB**
-- 🌱 Learning deep: **Laravel API**, **Inertia.js**, **Next.js**, **Nuxt.js**
-- 🤖 Exploring: **AI-driven apps**, **IoT integrations**, **microservices**
-- 🎯 **2025 Goal:** Contribute to open-source Laravel & Next.js ecosystems
+I build reliable and production-grade systems using **Laravel, Node.js, React, Next.js, and Microservices Architecture**.
+
+### 💼 What I Do
+- 🏗️ Architect & develop **enterprise-grade applications**
+- ⚙️ Build clean & scalable **REST APIs & microservices**
+- 🚀 Modern frontend: **React.js, Next.js, Inertia.js**
+- 🔒 Implement secure authentication: **JWT, OAuth2, Sanctum**
+- 🧪 Lead engineering standards: **CI/CD, Testing, Code Review**
+- 📈 Optimize performance & database queries
+- 🧠 Mentor junior devs & lead feature teams
+
+### 🎯 2025 Goals
+- Contribute to open-source (Laravel, Next.js, Node.js)
+- Master distributed systems & cloud-native architecture
+- Build advanced **AI-powered applications**
+
+---
+
+## 🧠 Core Competencies  
+
+### **🖥 Backend Engineering**
+- Laravel • Node.js • Express.js  
+- REST API • Microservices • Clean Architecture  
+- Queues (Redis, RabbitMQ)  
+- API Security: JWT, OAuth2, RBAC  
+
+### **🎨 Frontend Engineering**
+- React.js • Next.js • Inertia.js  
+- Tailwind CSS • Shadcn UI • Redux / Zustand  
+- SSR / ISR / SSG • Component-driven design  
+
+### **🗄 Database & Storage**
+- MySQL • PostgreSQL • MongoDB  
+- Query optimization • Indexing • DB design  
+
+### **⚙ DevOps & Deployment**
+- Docker • CI/CD (GitHub Actions, GitLab)  
+- Nginx • PM2 • Vercel • DigitalOcean  
+- Server monitoring & log management  
 
 ---
 
@@ -39,23 +74,10 @@ I’m a passionate **Full Stack Software Engineer** with **6+ years of experienc
 
 ---
 
-## ⚙️ Languages & Tools  
+## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Inertia.js-5664F5?style=for-the-badge&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,react,nextjs,mysql,postgres,mongodb,redis,docker,nginx,git,github,ts,js,vscode,postman&perline=10" />
 </p>
 
 ---
@@ -69,22 +91,57 @@ I’m a passionate **Full Stack Software Engineer** with **6+ years of experienc
 
 ---
 
-## 🏆 Achievements  
+## 🔥 GitHub Activity  
 
-- 🚀 Built and deployed **enterprise-grade Laravel + React.js systems**
-- 🔗 Created optimized **RESTful APIs** with **Laravel Sanctum & Inertia.js**
-- 🌐 Contributed to **IoT product development (Smart Vendy IoT Project)** using **MQTT + Node.js**
-- 👨‍🏫 Helped train junior developers in **Laravel, React, and system architecture**
-- 🔧 Experienced in **scalable architecture**, **clean code**, and **problem-solving**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kallanchandraroy&theme=radical&border_radius=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kallanchandraroy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallanchandraroy&theme=redical" />
+</p>
 
 ---
 
-## 💬 Quote  
-> _“Clean code, scalable architecture, and seamless user experience — that’s what I build.”_  
+## 🏆 Achievements & Highlights  
+
+- 🚀 Architected & deployed **enterprise-grade Laravel + React ecosystems**
+- 🔗 Designed fault-tolerant **RESTful APIs** using Laravel, Sanctum, Inertia.js  
+- 🌐 Developed **IoT-enabled Smart Vendy** platform using **MQTT, Node.js, sensors**
+- ⚡ Built high-performance **Next.js & React.js SPAs**
+- 🔥 Improved system performance with optimized DB queries & caching  
+- 👨‍🏫 Mentored teams, reviewed code, improved engineering culture  
+- 📦 Implemented advanced CI/CD workflows for automated deployments  
+- 🧰 Experienced in modular monolith & microservice architecture  
+
+---
+
+## 🧩 Featured Projects  
+
+### 📌 **Smart Vendy IoT Platform**
+Full-stack IoT system with vending machine automation  
+**Tech:** Node.js, MQTT, Sensors, React.js, Laravel API  
+
+### 📌 **Enterprise Membership Management System**
+Custom ERP-style membership & finance system  
+**Tech:** Laravel, Inertia.js, MySQL, REST API  
+
+### 📌 **E-commerce with Multi-Vendor Support**
+Scalable shopping platform with vendor dashboards  
+**Tech:** Laravel, Livewire, Tailwind, MySQL  
+
+➡️ _More coming soon..._
+
+---
+
+## 💬 Philosophy  
+> _“Clean architecture, scalable systems, and meaningful user experience — this is what I build.”_  
 > — **Kallan Chandra Roy**
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
