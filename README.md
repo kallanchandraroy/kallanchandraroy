@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kallan Chandra Roy (Shuvo) 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="300px" width="400px">
 </p>
 
 <p align="center">
