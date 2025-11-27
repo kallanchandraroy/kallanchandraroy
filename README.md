@@ -81,14 +81,6 @@ I build reliable and production-grade systems using **Laravel, Node.js, React, N
 ## 🔥 GitHub Activity  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kallanchandraroy&theme=radical&border_radius=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kallanchandraroy&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallanchandraroy&theme=redical" />
 </p>
 
