@@ -5,12 +5,10 @@
   <b>Bangladesh 🇧🇩</b>
 </p>
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Senior Software Engineer** with over **6+ years of experience**, specializing in **scalable architecture**, **modern full-stack development**, and **high-performance backend engineering**.
+I’m a **Senior Software Engineer** with over **7+ years of experience**, specializing in **scalable architecture**, **modern full-stack development**, and **high-performance backend engineering**.
 
 I build reliable and production-grade systems using **Laravel, Node.js, React, Next.js, and Microservices Architecture**.
 
