@@ -76,24 +76,6 @@ I build reliable and production-grade systems using **Laravel, Node.js, React, N
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kallanchandraroy&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kallanchandraroy&theme=redical&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🏆 Achievements & Highlights  
 
 - 🚀 Architected & deployed **enterprise-grade Laravel + React ecosystems**
